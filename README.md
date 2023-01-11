@@ -1,1 +1,1 @@
-# tpq-movie-recommendation
+# MovieRecommendation
